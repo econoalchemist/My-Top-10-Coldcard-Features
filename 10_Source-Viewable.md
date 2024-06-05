@@ -3,3 +3,11 @@
 ![](assets/14.jpg)
 
 ![](assets/15.jpg)
+
+Bonus: The ATECC608A Chip - Your xPRV is stored here. It has a secure boot feature & was designed to resist advanced aggressive attacks such as: Fault Injection, Timing Analysis, Side Channel Analysis, & Probing. Can store up to 16 keys. Independently bricks itself after 13 tries.
+
+![](assets/16.jpg)
+
+![](assets/17.jpg)
+
+Thanks for reading! I hope you will take some of these features into consideration when trying to decide the best way to self custody your bitcoin. 
